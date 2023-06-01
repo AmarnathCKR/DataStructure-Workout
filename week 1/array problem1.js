@@ -23,4 +23,4 @@ function same(arr1, arr2){
     return true
 }
 
-console.log(same([1,2,2,6], [4,4,396,1]))
+console.log(same([1,2,2,6], [1,36,4,4]))

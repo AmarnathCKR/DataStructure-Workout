@@ -18,7 +18,7 @@ function isAnagram(str1, str2) {
     return true;
   }
   
-  console.log(isAnagram('amar','rama'))
+  console.log(isAnagram('amar','rmaa'))
   
   
   

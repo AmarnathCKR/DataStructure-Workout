@@ -1,6 +1,6 @@
-// second smollest
+// second smallest
 
-const arr=[1,22,11,4,5]
+const arr=[12,22,11,4,5]
 
 
 function secondSmallest(arr){
